@@ -1,0 +1,22 @@
+{
+  "name": "constructor-word-guess",
+  "version": "1.0.0",
+  "description": "cli hangman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christytreviranus/constructor-word-guess.git"
+  },
+  "author": "christine t",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christytreviranus/constructor-word-guess/issues"
+  },
+  "homepage": "https://github.com/christytreviranus/constructor-word-guess#readme",
+  "dependencies": {
+    "inquirer": "^6.5.0"
+  }
+}
